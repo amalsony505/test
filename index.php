@@ -11,20 +11,20 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="test3.html">Login or Signup</a>
+          <a class="navbar-brand" href="index.php">Login or Signup</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="accordion.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="accordion.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="book.html">Book</a>
+                <a class="nav-link" href="book.php">Book</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="student.html">student</a>
+                <a class="nav-link" href="student.php">student</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Rajagiri Kalamassery</a>
